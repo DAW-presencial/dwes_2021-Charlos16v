@@ -28,3 +28,6 @@ Se comprueba de forma individual si cada variable ha obtenido el archivo, se com
 
 Si estas comprobaciones son correctas no salta ningun alert,
 y acaba llegango a else con un alert que verifica que se han guardado los 2 ficheros.
+
+Por la estructura de directorios para acceder al formulario es:
+http://cdominguez.ifc33x.cifpfbmoll.eu/dwes_2021-Charlos16v/fileForm/
